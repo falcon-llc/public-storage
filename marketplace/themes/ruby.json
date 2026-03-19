@@ -1,0 +1,21 @@
+{
+  "id": "ruby",
+  "name": "Ruby",
+  "author": "Falcon",
+  "colors": {
+    "bg": "#0C0808",
+    "panel": "#120C0C",
+    "panel2": "#0F0A0A",
+    "surface": "#1A1212",
+    "hover": "#221818",
+    "border": "#2E2020",
+    "dim": "#3A2828",
+    "t1": "#E8D4D4",
+    "t2": "#8A6060",
+    "t3": "#4A3434",
+    "accent": "#E11D48",
+    "accentFaint": "#14E11D48",
+    "red": "#FF6B6B",
+    "redFaint": "#18FF6B6B"
+  }
+}

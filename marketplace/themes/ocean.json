@@ -1,0 +1,21 @@
+{
+  "id": "ocean",
+  "name": "Ocean",
+  "author": "Falcon",
+  "colors": {
+    "bg": "#080C14",
+    "panel": "#0C121C",
+    "panel2": "#0A1018",
+    "surface": "#111A28",
+    "hover": "#172234",
+    "border": "#1E2E42",
+    "dim": "#283A52",
+    "t1": "#D0E0F0",
+    "t2": "#5A7A9A",
+    "t3": "#344A60",
+    "accent": "#38BDF8",
+    "accentFaint": "#1438BDF8",
+    "red": "#F87171",
+    "redFaint": "#18F87171"
+  }
+}

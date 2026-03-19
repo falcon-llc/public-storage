@@ -1,0 +1,21 @@
+{
+  "id": "royal",
+  "name": "Royal",
+  "author": "Falcon",
+  "colors": {
+    "bg": "#0D0A14",
+    "panel": "#140F1E",
+    "panel2": "#110C1A",
+    "surface": "#1C1528",
+    "hover": "#241C34",
+    "border": "#2E2442",
+    "dim": "#3C3052",
+    "t1": "#E8E0F8",
+    "t2": "#7A6A9A",
+    "t3": "#4A3A62",
+    "accent": "#A855F7",
+    "accentFaint": "#14A855F7",
+    "red": "#F43F5E",
+    "redFaint": "#18F43F5E"
+  }
+}

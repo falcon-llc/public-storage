@@ -1,0 +1,21 @@
+{
+  "id": "forest",
+  "name": "Forest",
+  "author": "Falcon",
+  "colors": {
+    "bg": "#0A0F0C",
+    "panel": "#0D1410",
+    "panel2": "#0B120E",
+    "surface": "#121A14",
+    "hover": "#182018",
+    "border": "#1E2A22",
+    "dim": "#2A3830",
+    "t1": "#D4E5D8",
+    "t2": "#5A7868",
+    "t3": "#384A42",
+    "accent": "#4ADE80",
+    "accentFaint": "#144ADE80",
+    "red": "#DC5050",
+    "redFaint": "#18DC5050"
+  }
+}

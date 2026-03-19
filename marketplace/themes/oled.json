@@ -1,0 +1,21 @@
+{
+  "id": "oled",
+  "name": "OLED Black",
+  "author": "Falcon",
+  "colors": {
+    "bg": "#000000",
+    "panel": "#0A0A0A",
+    "panel2": "#050505",
+    "surface": "#111111",
+    "hover": "#1A1A1A",
+    "border": "#222222",
+    "dim": "#333333",
+    "t1": "#FFFFFF",
+    "t2": "#888888",
+    "t3": "#444444",
+    "accent": "#00FF88",
+    "accentFaint": "#1400FF88",
+    "red": "#FF4444",
+    "redFaint": "#18FF4444"
+  }
+}

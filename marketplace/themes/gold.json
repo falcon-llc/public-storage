@@ -1,0 +1,21 @@
+{
+  "id": "gold",
+  "name": "Gold",
+  "author": "Falcon",
+  "colors": {
+    "bg": "#0F0D08",
+    "panel": "#14120C",
+    "panel2": "#12100A",
+    "surface": "#1C1810",
+    "hover": "#242018",
+    "border": "#2E2820",
+    "dim": "#3C3428",
+    "t1": "#F0E8D8",
+    "t2": "#9A8A6A",
+    "t3": "#5A4E3A",
+    "accent": "#F59E0B",
+    "accentFaint": "#14F59E0B",
+    "red": "#EF4444",
+    "redFaint": "#18EF4444"
+  }
+}
