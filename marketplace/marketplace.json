@@ -2,11 +2,11 @@
   "plugins": [
     {
       "name": "Anti-AFK",
-      "description": "Prevents getting kicked for being AFK in most games. Lightweight and configurable.",
+      "description": "Prevents getting kicked for being AFK in most games.",
       "author": "snowfall",
       "version": "1.2.0",
       "colors": [],
-      "download_url": "https://github.com/yourname/anti-afk/raw/main/anti_afk.lua",
+      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/marketplace/anti-afk.zip",
       "icon_url": "https://example.com/icon.png",
       "tags": ["utility", "afk", "automation"]
     },
@@ -16,7 +16,7 @@
       "author": "Falcon & snowfall",
       "version": "1.0.0",
       "colors": [],
-      "download_url": "https://raw.githubusercontent.com/visualspro/esp/main/esp.lua",
+      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/marketplace/devkit.zip",
       "tags": ["development", "utility"]
     }
   ],
@@ -24,8 +24,8 @@
   "themes": [
     {
       "name": "Dark Neon",
-      "description": "Sleek dark theme with glowing neon accents. Great for late-night sessions.",
-      "author": "ThemeMaster",
+      "description": "Sleek dark theme with neon accents. Great for late-night sessions.",
+      "author": "Example",
       "version": "1.0.5",
       "colors": [
         "#0f0f1a",
@@ -34,8 +34,8 @@
         "#00aaff",
         "#ffd700"
       ],
-      "download_url": "https://github.com/thememaster/dark-neon/raw/v1.0.5/theme.json",
-      "preview_url": "https://i.imgur.com/darkneon-preview.png",  // optional but recommended
+      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/marketplace/dark-neon.json",
+      "preview_url": "https://i.imgur.com/darkneon-preview.png",
       "tags": ["dark", "neon", "modern"]
     },
     {
@@ -50,7 +50,7 @@
         "#c7f0db",
         "#fff5ba"
       ],
-      "download_url": "https://raw.githubusercontent.com/calmui/light-pastel/main/theme.json",
+      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/marketplace/light-pastel.json",
       "tags": ["light", "pastel", "minimal"]
     }
   ]
