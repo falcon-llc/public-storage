@@ -1,0 +1,57 @@
+{
+  "plugins": [
+    {
+      "name": "Anti-AFK",
+      "description": "Prevents getting kicked for being AFK in most games. Lightweight and configurable.",
+      "author": "snowfall",
+      "version": "1.2.0",
+      "colors": [],
+      "download_url": "https://github.com/yourname/anti-afk/raw/main/anti_afk.lua",
+      "icon_url": "https://example.com/icon.png",
+      "tags": ["utility", "afk", "automation"]
+    },
+    {
+      "name": "DevKit",
+      "description": "DevKit for plugin developers.",
+      "author": "Falcon & snowfall",
+      "version": "1.0.0",
+      "colors": [],
+      "download_url": "https://raw.githubusercontent.com/visualspro/esp/main/esp.lua",
+      "tags": ["development", "utility"]
+    }
+  ],
+
+  "themes": [
+    {
+      "name": "Dark Neon",
+      "description": "Sleek dark theme with glowing neon accents. Great for late-night sessions.",
+      "author": "ThemeMaster",
+      "version": "1.0.5",
+      "colors": [
+        "#0f0f1a",
+        "#00ff9d",
+        "#ff00aa",
+        "#00aaff",
+        "#ffd700"
+      ],
+      "download_url": "https://github.com/thememaster/dark-neon/raw/v1.0.5/theme.json",
+      "preview_url": "https://i.imgur.com/darkneon-preview.png",  // optional but recommended
+      "tags": ["dark", "neon", "modern"]
+    },
+    {
+      "name": "Light Pastel",
+      "description": "Soft pastel colors, easy on the eyes. Perfect for daytime use.",
+      "author": "CalmUI",
+      "version": "0.8.2",
+      "colors": [
+        "#f8f1f1",
+        "#a3d8f4",
+        "#ffd3e0",
+        "#c7f0db",
+        "#fff5ba"
+      ],
+      "download_url": "https://raw.githubusercontent.com/calmui/light-pastel/main/theme.json",
+      "tags": ["light", "pastel", "minimal"]
+    }
+  ]
+}
