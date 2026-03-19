@@ -23,35 +23,88 @@
 
   "themes": [
     {
-      "name": "Dark Neon",
-      "description": "Sleek dark theme with neon accents. Great for late-night sessions.",
-      "author": "Example",
-      "version": "1.0.5",
+      "name": "Forest",
+      "description": "Deep hunter greens with mint accents. Easy on the eyes during long coding sessions.",
+      "author": "Falcon",
+      "version": "1.0.0",
       "colors": [
-        "#0f0f1a",
-        "#00ff9d",
-        "#ff00aa",
-        "#00aaff",
-        "#ffd700"
+        "#0A0F0C",
+        "#4ADE80",
+        "#182018",
+        "#D4E5D8"
       ],
-      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/marketplace/dark-neon.json",
-      "preview_url": "https://i.imgur.com/darkneon-preview.png",
-      "tags": ["dark", "neon", "modern"]
+      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/refs/heads/main/marketplace/themes/forest.json",
+      "tags": ["dark", "green", "nature"]
     },
     {
-      "name": "Light Pastel",
-      "description": "Soft pastel colors, easy on the eyes. Perfect for daytime use.",
-      "author": "CalmUI",
-      "version": "0.8.2",
+      "name": "Ruby",
+      "description": "Dark burgundy with vibrant rose accents. Warm and elegant.",
+      "author": "Falcon",
+      "version": "1.0.0",
       "colors": [
-        "#f8f1f1",
-        "#a3d8f4",
-        "#ffd3e0",
-        "#c7f0db",
-        "#fff5ba"
+        "#0C0808",
+        "#E11D48",
+        "#221818",
+        "#E8D4D4"
       ],
-      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/marketplace/light-pastel.json",
-      "tags": ["light", "pastel", "minimal"]
+      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/refs/heads/main/marketplace/themes/ruby.json",
+      "tags": ["dark", "red", "warm"]
+    },
+    {
+      "name": "Ocean",
+      "description": "Deep navy blues with cyan accents. Calm and professional.",
+      "author": "Falcon",
+      "version": "1.0.0",
+      "colors": [
+        "#080C14",
+        "#38BDF8",
+        "#172234",
+        "#D0E0F0"
+      ],
+      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/refs/heads/main/marketplace/themes/ocean.json",
+      "tags": ["dark", "blue", "cool"]
+    },
+    {
+      "name": "Royal",
+      "description": "Rich purples and violet tones with bright accents. Majestic and modern.",
+      "author": "Falcon",
+      "version": "1.0.0",
+      "colors": [
+        "#0D0A14",
+        "#A855F7",
+        "#241C34",
+        "#E8E0F8"
+      ],
+      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/refs/heads/main/marketplace/themes/royal.json",
+      "tags": ["dark", "purple", "elegant"]
+    },
+    {
+      "name": "Gold",
+      "description": "Dark sepia tones with amber and gold accents. Vintage warmth.",
+      "author": "Falcon",
+      "version": "1.0.0",
+      "colors": [
+        "#0F0D08",
+        "#F59E0B",
+        "#242018",
+        "#F0E8D8"
+      ],
+      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/refs/heads/main/marketplace/themes/gold.json",
+      "tags": ["dark", "warm", "gold", "amber"]
+    },
+    {
+      "name": "OLED Black",
+      "description": "Pure black background optimized for OLED displays. Maximum contrast with neon green accents.",
+      "author": "Falcon",
+      "version": "1.0.0",
+      "colors": [
+        "#000000",
+        "#00FF88",
+        "#1A1A1A",
+        "#FFFFFF"
+      ],
+      "download_url": "https://raw.githubusercontent.com/falcon-llc/public-storage/refs/heads/main/marketplace/themes/oled.json",
+      "tags": ["dark", "black", "oled", "contrast", "amoled"]
     }
   ]
 }
