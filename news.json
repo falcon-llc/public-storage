@@ -1,6 +1,12 @@
 {
-  "version": "2026-03-26-1",
+  "version": "2026-03-26-2",
   "items": [
+    {
+      "title": "Funny test",
+      "body": "brb",
+      "tag": "NEWS",
+      "image": "https://www.purina.co.nz/sites/default/files/2025-09/AOA_CENMKTG_PU_Website%20Article_27-Your%20Cat%27s%20Age%20in%20Human%20Years_1440x560px_091625_1.jpg"
+    },
     {
       "title": "Falcon is live!",
       "body": "Welcome to experience the new era of exploits.",
